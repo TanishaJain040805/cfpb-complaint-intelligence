@@ -3,3 +3,4 @@ pandas
 plotly
 joblib
 vaderSentiment
+scikit-learn
