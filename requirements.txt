@@ -3,4 +3,4 @@ pandas
 plotly
 joblib
 vaderSentiment
-scikit-learn
+scikit-learn==1.6.1
